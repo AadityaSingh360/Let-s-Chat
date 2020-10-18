@@ -1,6 +1,6 @@
 # letschat
 
-A new Flutter application.
+A Flutter Group chat application.
 
 ## Getting Started
 
