@@ -1,6 +1,6 @@
 # letschat
 
-A Flutter Group chat application.
+A Flutter based Group chat application.
 
 ## Getting Started
 
