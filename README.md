@@ -8,4 +8,5 @@ You can create an account or login to an old account to chat with other people o
 
 ## How it looks
 
-![](https://raw.githubusercontent.com/AadityaSingh360/Let-s-Chat/master/Let's-chat.gif)
+
+<img src="https://raw.githubusercontent.com/AadityaSingh360/Let-s-Chat/master/Let's-chat.gif" width="250" height="250"/>
