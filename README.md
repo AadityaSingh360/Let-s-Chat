@@ -4,7 +4,7 @@ A Flutter based Group chat application.
 
 ## Getting Started
 
-You can create an account or login to an old account to chat with other people on the app.
+You can create an account or login to an old account to chat with other people and make video calls on the app.
 
 ## How it looks
 
