@@ -1,16 +1,12 @@
 # letschat
 
-A new Flutter application.
+A Flutter based Group chat application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+You can create an account or login to an old account to chat with other people on the app.
 
-A few resources to get you started if this is your first Flutter project:
+## How it looks
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://raw.githubusercontent.com/AadityaSingh360/Let-s-Chat/master/let's-chat.gif" width="250" height="500"/>
